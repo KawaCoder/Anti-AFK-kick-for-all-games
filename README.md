@@ -2,7 +2,7 @@
 A working program which allow you to not be kicked from a server for inactivity.
 
 ## How to use it?
-As you can see, there is four files on the repository. There is a readme.md file, not important. One is a .exe file, </p>
+As you can see, there is three files on the repository. There is a readme.md file, not important. The exe file is on the Release section.</p>
 to run it on windows. There is also a .jar, to run it on every OS with java (8+)</p>
 installed. And there is a .java, to see the raw code. This is not an executable.</p>
 
@@ -26,8 +26,8 @@ No.
 Program made by DR34M-M4K3R:
 https://github.com/DR34M-M4K3R/</p>
 </p>
-.exe icon made by Subhashish Panigrahi, (simple redimension from the original):</p>
-https://commons.wikimedia.org/wiki/User:Psubhashish
+.exe icon made by Freepik:</p>
+https://www.flaticon.com/authors/freepik
 </p>
 </p>
 
