@@ -48,9 +48,10 @@ A working program which allow you to not be kicked from a server for inactivity.
 ## Table of content:<br/>
 ### 1. [Downloads](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#downloads)<br/>
 ### 2. [About the program](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#about-the-program)<br/>
-### 3. [How to use Anti-AFK?](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#how-to-use-anti-afk-kick-for-all-games)
-### 4. [Special cases and internal errors](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#special-cases-and-internal-errors)
-### 5. [Contact (24/24h)](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#contact)
+### 3. [How to launch the software?](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#launch-the-software)
+### 4. [How to use Anti-AFK?](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#how-to-use-anti-afk-kick-for-all-games)
+### 5. [Special cases and internal errors](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#special-cases-and-internal-errors)
+### 6. [Contact (24/24h)](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#contact)
 
 
 ## Downloads
@@ -77,7 +78,6 @@ exe icon made by [Freepik](https://www.flaticon.com/authors/freepik)
 To launch the .jar file, you need to open a terminal and type:
 ```
 $ java -jar Anti-AFK.jar
-
 ```
 
 ### Launch the .exe file
