@@ -47,10 +47,10 @@ A working program which allow you to not be kicked from a server for inactivity.
 [Version française ici](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md)
 ## Table of content:<br/>
 ### 1. [Downloads](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#downloads)<br/>
-### 2. [About the program](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#about-the-program)<br/>
-### 3. [How to use Ultimate Convertor?](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#how-to-use-ultimate-convertor)
-### 4. [Special cases and internal errors](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#special-cases-and-internal-errors)
-### 5. [Contact (24/24h)](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#contact)
+### 2. [About the program](<br/>
+### 3. [How to use Anti-AFK?]()
+### 4. [Special cases and internal errors]()
+### 5. [Contact (24/24h)]()
 
 
 ## Downloads
