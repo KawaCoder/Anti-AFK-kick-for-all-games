@@ -45,7 +45,7 @@ A working program which allow you to not be kicked from a server for inactivity.
 <br/>
 [Version française ici](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md)
 ## Table of content:<br/>
-### 1. [Downloads](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#downloads)<br/>
+### 1. [Downloads](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#downloads)<br/>
 ### 2. [About the program](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#about-the-program)<br/>
 ### 3. [How to use Ultimate Convertor?](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#how-to-use-ultimate-convertor)
 ### 4. [Special cases and internal errors](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#special-cases-and-internal-errors)
@@ -64,28 +64,23 @@ This program allows you to leave you game without being ejected from the online 
 Program made by [DR34M-M4K3R](https://github.com/DR34M-M4K3R/)</p>
 </p>
 .exe icon made by [Freepik](https://www.flaticon.com/authors/freepik)
+
 </p>
 
 <br/><br/>
 ## How to use Anti-AFK-kick-for-all-games?
-First, you need to download the program by going into the [downloads section](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#downloads)And then, launch the software.
+First, you need to download the program by going into the [downloads section](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#downloads)And then, launch the software.
 <br/>
 <br/>
-![image](https://user-images.githubusercontent.com/67145585/116277111-76c45780-a785-11eb-9d5c-0d9ba2a146a3.png)
 <br/>
-This window will open, and the program is ready! Now you have to select one of the conversions, simply by entering one of the 7 available options with the keyboard. Then, other options will appear, as in the image below:
+This window will open, and the program is ready! 
 <br/>
-![image](https://user-images.githubusercontent.com/67145585/116277718-0964f680-a786-11eb-8aef-7fc9d8eef229.png)
 <br/>
-Then simply select what you want to convert and continue surfing with these commands.
 <br/><br/><br/>
 # Special cases and internal errors
 <br/><br/>
 ## Table of content:<br/>
 ### 1. ["Windows Protected Your PC” Popup](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#windows-protected-your-pc-popup)<br/>
-### 2. [ERREUR: Entree incorrecte: Entrez une option valide (x/x/x/x/x/etc...)](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#erreur-entree-incorrecte-entrez-une-option-valide-xxxxxetc)<br/>
-### 3. [ERREUR: Entree incorrecte: Valeur non binaire.](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#how-to-use-ultimate-convertor)
-### 4. [Special cases and internal errors](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#special-cases-and-internal-errors)
 
 <br/><br/>
 
@@ -112,21 +107,6 @@ You must follow these steps:
 
 <br/><br/><br/>
 
-## ERREUR: Entree incorrecte: Entrez une option valide (x/x/x/x/x/etc...)
-
-If this showed up, it is that you entered a wrong option into a menu. Only showed numbers are allowed. If you have problem, do not hesitate to contact me!
-
-<br/><br/>
-
-## ERREUR: Entree incorrecte: Valeur non binaire.
-
-If this message shows up, it means that you have to enter a binary number (only made up of 1 and 0). If you have problem, do not hesitate to contact me!
-
-<br/><br/>
-
-## ERREUR: Entree incorrecte: Entrez un nombre.
-
-If this message shows up, it means that you have to enter a number, and not a letter/other character
 
 ## Contact
 [![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.com/users/725672294692945991)
