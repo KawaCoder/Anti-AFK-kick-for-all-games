@@ -127,7 +127,7 @@ You must follow these steps:
 
 <br/><br/>
 ## How can i contribute?
-To contribute to the development of the projects, you can [contact me on discord](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#contact), I am available all the time, or make a donation (buy me a coffee). I would be extremely grateful!
+To contribute to the development of the projects, you can [contact me on discord]https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#contact), I am available all the time, or make a donation (buy me a coffee). I would be extremely grateful!
 
 <br/>
 <a href="https://www.buymeacoffee.com/DR34MM4K3R" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
