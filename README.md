@@ -47,10 +47,10 @@ A working program which allow you to not be kicked from a server for inactivity.
 [Version française ici](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md)
 ## Table of content:<br/>
 ### 1. [Downloads](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#downloads)<br/>
-### 2. [About the program](<br/>
-### 3. [How to use Anti-AFK?]()
-### 4. [Special cases and internal errors]()
-### 5. [Contact (24/24h)]()
+### 2. [About the program](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#about-the-program)<br/>
+### 3. [How to use Anti-AFK?](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#how-to-use-anti-afk-kick-for-all-games)
+### 4. [Special cases and internal errors](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#special-cases-and-internal-errors)
+### 5. [Contact (24/24h)](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#contact)
 
 
 ## Downloads
@@ -70,21 +70,33 @@ exe icon made by [Freepik](https://www.flaticon.com/authors/freepik)
 </p>
 
 <br/><br/>
+
+## Launch the software
+
+### Launch the .jar file
+To launch the .jar file, you need to open a terminal and type:
+```
+$ java -jar Anti-AFK.jar
+
+```
+
+### Launch the .exe file
+To launch the .exe file, you just need to doubl-click on the file. If a blue window shows up, check [this section](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#windows-protected-your-pc-popup).
+
 ## How to use Anti-AFK-kick-for-all-games?
-First, you need to download the program by going into the [downloads section](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#downloads)And then, launch the software.
+First, you need to download the program by going into the [downloads section](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#downloads) And then, launch the software.
 <br/>
 <br/>
 <br/>
 This window will open, and the program is ready! 
 <br/>
+![image](https://user-images.githubusercontent.com/67145585/116578788-0d258400-a912-11eb-898d-097b49f1ef31.png)
 <br/>
+When you will press the "Strart" button, all you have to do is to place your game's window on the in the foreground
 <br/><br/><br/>
 # Special cases and internal errors
 <br/><br/>
-## Table of content:<br/>
-### 1. ["Windows Protected Your PC” Popup](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#windows-protected-your-pc-popup)<br/>
-
-<br/><br/>
+<br/>
 
 ## "Windows Protected Your PC” Popup
 
