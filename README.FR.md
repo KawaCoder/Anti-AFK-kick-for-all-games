@@ -9,19 +9,19 @@ Un programme fonctionnel qui vous permet de ne pas être kické d'un serveur pou
 [Version française ici](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/blob/main/README.FR.md)
 <br/><br/>
 ## Table des matières:<br/>
-### 1. [Téléchargements](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#downloads)<br/>
-### 2. [A propos du programme](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#about-the-program)<br/>
-### 3. [Comment lancer le logiciel ?](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#launch-the-software)
-### 4. [Comment utiliser Anti-AFK ?](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#how-to-use-anti-afk-kick-for-all-games)
-### 5. [Cas particuliers et erreurs internes](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#special-cases-and-internal-errors)
+### 1. [Téléchargements](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/blob/main/README.FR.md#downloads)<br/>
+### 2. [A propos du programme](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/blob/main/README.FR.md#a-propos-du-programme)<br/>
+### 3. [Comment lancer le logiciel ?](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/blob/main/README.FR.md#lancer-le-logiciel)
+### 4. [Comment utiliser Anti-AFK ?](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/blob/main/README.FR.md#comment-utiliser-anti-afk-kick-for-all-games-)
+### 5. [Cas particuliers et erreurs internes](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/blob/main/README.FR.md#cas-particuliers-et-erreurs-internes)
 ### 6. [Contact (24/24h)](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#contact)
 
 
-## Downloads
+## Téléchargements
 
-[ ![hey](https://img.shields.io/badge/Download%20.exe-181717?style=for-the-badge&color=blue&logo=windows)](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/releases/download/1.1/Anti-AFK.exe)
+[![hey](https://img.shields.io/badge/Download%20.exe-181717?style=for-the-badge&color=blue&logo=windows)](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/releases/download/1.1/Anti-AFK.exe)
 
-[ ![hey](https://img.shields.io/badge/Download%20.jar-181717?style=for-the-badge&color=red&logo=java)](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/raw/main/Anti-AFK.jar)
+[![hey](https://img.shields.io/badge/Download%20.jar-181717?style=for-the-badge&color=red&logo=java)](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/raw/main/Anti-AFK.jar)
 
 
 ## A propos du programme
