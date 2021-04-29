@@ -9,7 +9,7 @@ Un programme fonctionnel qui vous permet de ne pas être kické d'un serveur pou
 [Version française ici](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/blob/main/README.FR.md)
 <br/><br/>
 ## Table des matières:<br/>
-### 1. [Téléchargements](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/blob/main/README.FR.md#downloads)<br/>
+### 1. [Téléchargements](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/blob/main/README.FR.md#t%C3%A9l%C3%A9chargements)<br/>
 ### 2. [A propos du programme](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/blob/main/README.FR.md#a-propos-du-programme)<br/>
 ### 3. [Comment lancer le logiciel ?](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/blob/main/README.FR.md#lancer-le-logiciel)
 ### 4. [Comment utiliser Anti-AFK ?](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/blob/main/README.FR.md#comment-utiliser-anti-afk-kick-for-all-games-)
@@ -45,7 +45,7 @@ $ java -jar Anti-AFK.jar
 Pour lancer le fichier .exe, il suffit de double-cliquer sur le fichier. Si une fenêtre bleue s'affiche, consultez [cette section](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#windows-protected-your-pc-popup).
 
 ## Comment utiliser Anti-AFK-kick-for-all-games ?
-Tout d'abord, vous devez télécharger le programme en allant dans la section [téléchargements](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#downloads) Et ensuite, lancez le logiciel.
+Tout d'abord, vous devez télécharger le programme en allant dans la section [téléchargements](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/blob/main/README.FR.md#t%C3%A9l%C3%A9chargements) Et ensuite, lancez le logiciel.
 <br/>
 <br/>
 <br/>
