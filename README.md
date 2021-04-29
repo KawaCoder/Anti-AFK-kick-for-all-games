@@ -26,6 +26,7 @@ No.
 Program made by [DR34M-M4K3R](https://github.com/DR34M-M4K3R/)</p>
 </p>
 .exe icon made by [Freepik](https://www.flaticon.com/authors/freepik)
+
 </p>
 </p>
 
@@ -61,9 +62,10 @@ A working program which allow you to not be kicked from a server for inactivity.
 
 ## About the program
 This program allows you to leave you game without being ejected from the online server. You can go for hours, and your game will still be opened.</p>
-Program made by [DR34M-M4K3R](https://github.com/DR34M-M4K3R/)</p>
+Program made by [DR34M-M4K3R](https://github.com/DR34M-M4K3R)</p>
 </p>
-.exe icon made by [Freepik](https://www.flaticon.com/authors/freepik)
+
+exe icon made by [Freepik](https://www.flaticon.com/authors/freepik)
 
 </p>
 
