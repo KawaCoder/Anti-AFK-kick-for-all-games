@@ -44,7 +44,7 @@ Program made by [DR34M-M4K3R](https://github.com/DR34M-M4K3R/)</p>
 # Anti-AFK-kick-for-all-games
 A working program which allow you to not be kicked from a server for inactivity.
 <br/>
-[Version française ici](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md)
+[Version française ici]()
 ## Table of content:<br/>
 ### 1. [Downloads](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#downloads)<br/>
 ### 2. [About the program](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#about-the-program)<br/>
