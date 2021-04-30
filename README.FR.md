@@ -6,7 +6,7 @@
 # Anti-AFK-kick-pour-tous-les-jeux
 Un programme fonctionnel qui vous permet de ne pas être kické d'un serveur pour inactivité.
 <br/>
-[Version française ici](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/blob/main/README.FR.md)
+[English version here](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games)
 <br/><br/>
 ## Table des matières:<br/>
 ### 1. [Téléchargements](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/blob/main/README.FR.md#t%C3%A9l%C3%A9chargements)<br/>
