@@ -1,6 +1,10 @@
 # Documentation française en cours.
 
-
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at https://mozilla.org/MPL/2.0/. 
+   - Creator: DR34M-M4K3R#7751-->
+   
 <a href="https://www.buymeacoffee.com/DR34MM4K3R" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <br/><br/>
 # Anti-AFK-kick-pour-tous-les-jeux
