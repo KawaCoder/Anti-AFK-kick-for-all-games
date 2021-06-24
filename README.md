@@ -11,6 +11,8 @@
 <a href="https://www.buymeacoffee.com/DR34MM4K3R" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <br/><br/>
 # Anti-AFK-kick-for-all-games
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-orange.svg?style=for-the-badge&logo=mozilla)](https://www.mozilla.org/en-US/MPL/)
+
 A working program which allow you to not be kicked from a server for inactivity.
 <br/>
 [Version française ici](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/blob/main/README.FR.md)
