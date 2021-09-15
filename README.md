@@ -95,8 +95,7 @@ You must follow these steps:
 
 
 ## Contact
-[![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.com/users/725672294692945991)
-
+[![hey](https://img.shields.io/badge/Join%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.gg/FPhHhBG25d)  [![Support Server](https://img.shields.io/discord/858046559316344852.svg?label=We%20are&colorB=7289da&style=for-the-badge)](https://discord.gg/FPhHhBG25d)
 <br/><br/>
 ## How can i contribute?
 To contribute to the development of the projects, you can [contact me on discord]https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games#contact), I am available all the time, or make a donation (buy me a coffee). I would be extremely grateful!
