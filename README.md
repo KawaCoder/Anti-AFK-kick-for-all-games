@@ -32,6 +32,7 @@ A working program which allow you to not be kicked from a server for inactivity.
 
 [![hey](https://img.shields.io/badge/Download%20.jar-181717?style=for-the-badge&color=red&logo=java)](https://github.com/DR34M-M4K3R/Anti-AFK-kick-for-all-games/raw/main/Anti-AFK.jar)
 
+#### test lol
 
 ## About the program
 This program allows you to leave you game without being ejected from the online server. You can go for hours, and your game will still be opened.</p>
