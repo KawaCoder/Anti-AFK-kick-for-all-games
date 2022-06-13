@@ -87,7 +87,7 @@ Vous devez suivre les étapes suivantes :
 
 
 ## Contact
-[![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.com/users/725672294692945991)
+[![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.gg/3VEeEdSeVv)
 
 <br/><br/>
 ## Comment puis-je contribuer ?
